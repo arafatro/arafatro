@@ -81,17 +81,17 @@ Doctoral researcher at the **Data Science and Engineering Department**, Faculty 
 
 ---
 
-## Achievements
+## GitHub Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arafatro&theme=flat&no-frame=true&column=7&margin-w=8&title_color=0e75b6)](https://github.com/arafatro)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arafatro&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest)](https://github.com/arafatro)
 
 </div>
 
 ---
 
-## Own Projects
+## Research & Projects
 
 | Repository | Description | Stars | Forks |
 |:-----------|:------------|------:|------:|
@@ -102,17 +102,27 @@ Doctoral researcher at the **Data Science and Engineering Department**, Faculty 
 | [KmethPred](https://github.com/arafatro/KmethPred) | Accurate Lysine Methylation site prediction from sequence features | — | — |
 | [Using-DM-To-Predict...](https://github.com/arafatro/Using-DM-To-Predict-Secondary-School-Student-Perfromance) | Data mining to predict secondary school student performance | 1 | — |
 | [Machine-Learning](https://github.com/arafatro/Machine-Learning) | Machine Learning code and experiments using Python | — | — |
-| [Bioinformatics880](https://github.com/arafatro/Bioinformatics880) | Bioinformatics coursework and experiments (Elm) | — | — |
+| [Bioinformatics880](https://github.com/arafatro/Bioinformatics880) | Bioinformatics coursework and experiments | — | — |
 
-## Forked & Contributed
+---
 
-| Repository | Description |
-|:-----------|:------------|
-| [DeepAmp](https://github.com/arafatro/DeepAmp) | CNN-based tool for predicting protein AMPylation sites |
-| [SEMal](https://github.com/arafatro/SEMal) | Predict Malonylation Sites from protein sequences |
-| [analytics-cloud-export-api-wrapper](https://github.com/arafatro/analytics-cloud-export-api-wrapper) | SAP Analytics Cloud OData Export API wrapper |
-| [performance-regression-data-set](https://github.com/arafatro/performance-regression-data-set) | Open dataset for performance regression detection research |
-| [recommenders-sys](https://github.com/arafatro/recommenders-sys) | Best practices on Recommendation Systems |
+## Let's Connect
+
+<div align="center">
+
+I am open to research collaborations, academic discussions, and project opportunities in data science, machine learning, and bioinformatics.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.earafatr@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafatro)
+
+<br/><br/>
+
+*Always open to discussing research, collaborating on open-source, or answering questions about my work.*
+
+</div>
 
 ---
 
