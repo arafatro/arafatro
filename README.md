@@ -20,7 +20,7 @@ Doctoral School of Informatics · Eötvös Loránd University (ELTE) · Budapest
 
 </div>
 
----
+<br/>
 
 ## About
 
@@ -34,7 +34,7 @@ Beyond research, I bridge academia and industry through open-source contribution
 
 > Actively seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **AI Engineer**.
 
----
+<br/>
 
 ## Languages & Tools
 
@@ -53,33 +53,59 @@ Beyond research, I bridge academia and industry through open-source contribution
 
 </div>
 
+<br/>
 
----
+## GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=arafatro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatro&layout=compact&hide_border=true&langs_count=8&title_color=0e75b6&text_color=333333" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arafatro&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=555555&dates=555555)
+
+</div>
+
+<br/>
 
 ## GitHub Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arafatro&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest)](https://github.com/arafatro)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arafatro&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/arafatro)
 
 </div>
 
----
+<br/>
 
-## Research & Projects
+## Research Projects
+
+| Repository | Description | Stars |
+|:-----------|:------------|------:|
+| [DSIQ-GEN](https://github.com/arafatro/DSIQ-GEN) | Data Science interview question generation via LoRA / P-tuning on Llama-3.2 | — |
+| [MeSEP](https://github.com/arafatro/MeSEP) | Lysine Methylation Site prediction using evolutionary & structural features | 1 |
+| [KmethPred](https://github.com/arafatro/KmethPred) | Accurate Lysine Methylation site prediction from sequence features | — |
+| [Recommender-Sys](https://github.com/arafatro/Recommender-Sys) | Recommendation Systems — implementations and best practices | 1 |
+| [Using-DM-To-Predict-Student-Performance](https://github.com/arafatro/Using-DM-To-Predict-Secondary-School-Student-Perfromance) | Data mining to predict secondary school student performance | 1 |
+
+<br/>
+
+## Courses & Teaching
 
 | Repository | Description | Stars | Forks |
 |:-----------|:------------|------:|------:|
 | [IntroToDS](https://github.com/arafatro/IntroToDS) | Comprehensive Introduction to Data Science Practice resource | 10 | 3 |
-| [DSIQ-GEN](https://github.com/arafatro/DSIQ-GEN) | Data Science interview question generation via LoRA / P-tuning on Llama-3.2 | — | — |
-| [MeSEP](https://github.com/arafatro/MeSEP) | Lysine Methylation Site prediction using evolutionary & structural features | 1 | — |
-| [Recommender-Sys](https://github.com/arafatro/Recommender-Sys) | Recommendation Systems implementations and best practices | 1 | — |
-| [KmethPred](https://github.com/arafatro/KmethPred) | Accurate Lysine Methylation site prediction from sequence features | — | — |
-| [Using-DM-To-Predict...](https://github.com/arafatro/Using-DM-To-Predict-Secondary-School-Student-Perfromance) | Data mining to predict secondary school student performance | 1 | — |
 | [Machine-Learning](https://github.com/arafatro/Machine-Learning) | Machine Learning code and experiments using Python | — | — |
 | [Bioinformatics880](https://github.com/arafatro/Bioinformatics880) | Bioinformatics coursework and experiments | — | — |
 
----
+<br/>
 
 ## Let's Connect
 
@@ -99,7 +125,7 @@ Open to research collaborations, academic discussions, and industry opportunitie
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
