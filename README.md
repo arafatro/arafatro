@@ -10,9 +10,9 @@
 
 ## Md. Easin Arafat
 
-**Doctoral Researcher · Data Science & Machine Learning**
+**PhD Researcher · AI · Generative AI · Machine Learning · NLP**
 
-Eötvös Loránd University · Faculty of Informatics · Budapest, Hungary
+Doctoral School of Informatics · Eötvös Loránd University (ELTE) · Budapest, Hungary
 
 [![Email](https://img.shields.io/badge/i.earafatr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.earafatr@gmail.com)
 &nbsp;
@@ -24,11 +24,15 @@ Eötvös Loránd University · Faculty of Informatics · Budapest, Hungary
 
 ## About
 
-Doctoral researcher at the **Data Science and Engineering Department**, Faculty of Informatics, Eötvös Loránd University. My work centres on machine learning, natural language processing, and deep learning applied to real-world challenges — with focus areas in:
+PhD researcher at the **Department of Data Science and Engineering**, Doctoral School of Informatics, Eötvös Loránd University (ELTE), Budapest — one of Hungary's leading institutions in computer science and AI research.
 
-- **Bioinformatics** — sequence-based prediction of post-translational modification sites
-- **Educational Data Science** — student performance modelling and data-driven pedagogy
-- **NLP / LLM Fine-tuning** — parameter-efficient methods (LoRA, P-tuning, Prefix Tuning) for domain-specific generation
+My doctoral research focuses on **AI-driven data integration, generative AI, and machine learning**, with extensive work on large language models (LLMs), neural networks, and data-driven pipelines to design systems that automate complex workflows and enable adaptive decision-making across digital ecosystems.
+
+My work has led to publications and contributions across top-tier venues including **NeurIPS, EMNLP, AAAI, IEEE Access, Neural Computing and Applications, Cognitive Computation**, and **Computers in Biology and Medicine** — spanning LLM-powered banking assistants, generative AI systems, and protein post-translational modification prediction.
+
+Beyond research, I bridge academia and industry through open-source contributions, practical engineering projects, and real-world dataset development — leveraging expertise in **Python, deep learning, NLP**, and **SAP ecosystem integration** to build scalable, production-ready AI solutions.
+
+> Actively seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **AI Engineer**.
 
 ---
 
@@ -49,35 +53,6 @@ Doctoral researcher at the **Data Science and Engineering Department**, Faculty 
 
 </div>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=arafatro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatro&layout=compact&hide_border=true&langs_count=8&title_color=0e75b6&text_color=333333" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arafatro&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=555555&dates=555555)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatro&bg_color=ffffff&color=0e75b6&line=0e75b6&point=003d6b&area=true&area_color=d0e8ff&hide_border=true)](https://github.com/arafatro)
-
-</div>
 
 ---
 
@@ -110,7 +85,7 @@ Doctoral researcher at the **Data Science and Engineering Department**, Faculty 
 
 <div align="center">
 
-I am open to research collaborations, academic discussions, and project opportunities in data science, machine learning, and bioinformatics.
+Open to research collaborations, academic discussions, and industry opportunities in data science, machine learning, and AI engineering.
 
 <br/>
 
@@ -120,7 +95,7 @@ I am open to research collaborations, academic discussions, and project opportun
 
 <br/><br/>
 
-*Always open to discussing research, collaborating on open-source, or answering questions about my work.*
+*Let's connect and explore how we can shape the future of AI together.*
 
 </div>
 
@@ -128,6 +103,6 @@ I am open to research collaborations, academic discussions, and project opportun
 
 <div align="center">
 
-*Eötvös Loránd University · Faculty of Informatics · Budapest, Hungary*
+*Eötvös Loránd University · Doctoral School of Informatics · Budapest, Hungary*
 
 </div>
