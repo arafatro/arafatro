@@ -85,27 +85,26 @@ Beyond research, I bridge academia and industry through open-source contribution
 
 <br/>
 
-## Research Projects
+## Projects
 
 | Repository | Description | Stars |
 |:-----------|:------------|------:|
-| [DSIQ-GEN](https://github.com/arafatro/DSIQ-GEN) | Data Science interview question generation via LoRA / P-tuning on Llama-3.2 | — |
+| [DSIQ-GEN](https://github.com/arafatro/DSIQ-GEN) | Auto-generation of Data Science interview questions via LoRA / P-tuning on Llama-3.2 | — |
+| [SAP-AI-Skill-Framework](https://github.com/arafatro/SAP-AI-Skill-Framework) | AI skill framework for SAP ecosystem integration | — |
 | [MeSEP](https://github.com/arafatro/MeSEP) | Lysine Methylation Site prediction using evolutionary & structural features | 1 |
 | [KmethPred](https://github.com/arafatro/KmethPred) | Accurate Lysine Methylation site prediction from sequence features | — |
-| [Recommender-Sys](https://github.com/arafatro/Recommender-Sys) | Recommendation Systems — implementations and best practices | 1 |
 | [Using-DM-To-Predict-Student-Performance](https://github.com/arafatro/Using-DM-To-Predict-Secondary-School-Student-Perfromance) | Data mining to predict secondary school student performance | 1 |
 
 <br/>
 
-## Courses & Teaching
+## Courses
 
 | Repository | Description | Stars | Forks |
 |:-----------|:------------|------:|------:|
 | [IntroToDS](https://github.com/arafatro/IntroToDS) | Comprehensive Introduction to Data Science Practice resource | 10 | 3 |
 | [Machine-Learning](https://github.com/arafatro/Machine-Learning) | Machine Learning code and experiments using Python | — | — |
-| [Bioinformatics880](https://github.com/arafatro/Bioinformatics880) | Bioinformatics coursework and experiments | — | — |
-
-<br/>
+| [Recommender-Sys](https://github.com/arafatro/Recommender-Sys) | Best practices on Recommendation Systems | 1 | — |
+| [Python-Bachelor](https://github.com/arafatro/Python-Bachelor) | Python coursework and exercises from bachelor studies | — | — |
 
 ## Let's Connect
 
