@@ -133,6 +133,25 @@ Open to research collaborations, visiting positions, and industry opportunities 
 
 </div>
 
+
+
+<br/>
+
+## My GitHub Data
+
+```text
+Open to Work
+20 Public Repositories
+21 Private Repositories
+
+I Mostly Code in Jupyter Notebook (Python)
+
+Jupyter Notebook    8 repos    █████████████████░░░░░░░░   66.67%
+Python              1 repo     ██░░░░░░░░░░░░░░░░░░░░░░░    8.33%
+Elm                 1 repo     ██░░░░░░░░░░░░░░░░░░░░░░░    8.33%
+PHP                 1 repo     ██░░░░░░░░░░░░░░░░░░░░░░░    8.33%
+Roff                1 repo     ██░░░░░░░░░░░░░░░░░░░░░░░    8.33%
+```
 <br/>
 
 <div align="center">
