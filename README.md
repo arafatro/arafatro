@@ -78,19 +78,6 @@ Research spans LLM-powered banking assistants, generative AI systems, and protei
 
 <br/>
 
-## Primary Languages
-
-<div align="center">
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-67%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![Elm](https://img.shields.io/badge/Elm-8%25-1293D8?style=flat-square&logo=elm&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8%25-777BB4?style=flat-square&logo=php&logoColor=white)
-![Roff](https://img.shields.io/badge/Roff-8%25-555555?style=flat-square)
-
-</div>
-
-<br/>
 
 ## Research Projects
 
